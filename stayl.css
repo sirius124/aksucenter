@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+	outline: none;
+	box-sizing: border-box;
+}
+
+body {
+	background: url(img/fon.jpg);
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.container {
+	height: 467px;
+	max-width: 277px;
+	margin: 0 auto;
+}
+
+.fon {
+	background: #fff;
+	height: 500px;
+	max-width: 400px;
+	margin-top: 75px;
+}
+
+.logo {
+	text-align: center;
+}
+
+img {
+	border-radius: 100%;
+	max-width: 100px;
+	max-height: 100px;
+	margin-top: 25px;
+	display: inline-block;
+}
+
+.title {
+	font-size: 18px;
+}
+
+.description {
+	width:	188px;
+	height: 35px;
+	background-color: #FFD461;
+	margin: 0 auto;
+	margin-top: 35px;
+}
+
+.description-text {
+	text-align: center;
+	font-weight: 700;
+	font-size: 15px;
+	padding-top: 10px;
+}
+
+.ads {
+	color: #ffbd4a;
+	font-weight: 500;
+	font-size: 15px;
+	text-align: center;
+}
+.instagram {
+	width: 50px;
+	height: 50px;
+	margin-left: 47px;
+	margin-top: 24px;
+}
+
+.vk {
+	width: 50px;
+	height: 50px;
+	margin-left:14px;
+
+}
+
+.telegram{
+	width: 50px;
+	height: 50px;
+	margin-left:14px;
+}
+
+.whatsApp{
+	width: 50px;
+	height: 50px;
+	display: block;
+	margin-left: 114px;
+}
+
+
+div#tekst_sverhu_kartinki {
+	border-radius: 100%;
+	max-width: 100px;
+	max-height: 100px;
+	margin-top: 25px;
+	margin: 0 auto;
+}
+
+.tekst_sverhu_kartinki {
+	text-transform: uppercase;
+	text-align: center;
+	padding-bottom: 300px;
+
+}
+
